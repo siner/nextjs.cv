@@ -51,32 +51,32 @@ export const RESUME_DATA = {
     {
       company: "Estrim",
       link: "https://estrim.com",
-      badges: ["Freelance"],
+      badges: ["Manager"],
       title: "Project Manager",
       start: "2023",
-      end: "-",
+      end: "",
       description:
         "Gestión de equipos de desarrollo y liderazgo técnico en el desarrollo de la aplicación web y móvil de Estrim",
     },
     {
       company: "AltaMK",
       link: "https://altamarketing.com",
-      badges: ["Remote"],
+      badges: ["Remote", "React", "TypeScript"],
       title: "CTO",
       start: "2020",
-      end: "-",
+      end: "",
       description:
         "Liderazgo técnico en el desarrollo de proyectos web para los clientes de AltaMK",
     },
     {
       company: "Sozpic",
       link: "https://www.sozpic.com/",
-      badges: ["Founder", "WordPress", "PHP"],
-      title: "CTO",
+      badges: ["Founder", "WordPress", "Laravel", "React", "TypeScript"],
+      title: "CEO / CTO",
       start: "2011",
       end: "2021",
       description:
-        "Socio fundador y CTO de Sozpic, una empresa de desarrollo de aplicaciones móviles. Creación de aplicaciones móviles para otras empresas. Tecnologías: WordPress, Laravel, React, TypeScript",
+        "Socio fundador y CTO de Sozpic, una empresa de desarrollo web, aplicaciones móviles y marketing online. Tecnologías con las que trabajé: PHP, WordPress, Laravel, React, VUE, TypeScript, Astro, NextJS, NuxtJS",
     },
     {
       company: "Canales Corporativos",
@@ -92,10 +92,18 @@ export const RESUME_DATA = {
     "JavaScript",
     "TypeScript",
     "React/Next.js",
+    "Astro",
     "Node.js",
     "PHP",
+    "Supabase",
     "WordPress",
     "Laravel",
+    "Tailwind CSS",
+    "Vercel",
+    "Cloudflare Workers",
+    "GIT",
+    "Management",
+    "Leadership",
   ],
   projects: [
     {
@@ -121,6 +129,24 @@ export const RESUME_DATA = {
       link: {
         label: "torneospokerlive.com",
         href: "https://torneospokerlive.com/",
+      },
+    },
+    {
+      title: "Estrim",
+      techStack: ["Management"],
+      description: "Project management de la aplicación web y móvil de Estrim",
+      link: {
+        label: "estrim.com",
+        href: "https://estrim.com/",
+      },
+    },
+    {
+      title: "Web 4500",
+      techStack: ["React", "Tailwind CSS"],
+      description: "Web del despacho de abogados 4500",
+      link: {
+        label: "4500.lu",
+        href: "https://4500.lu/",
       },
     },
   ],
