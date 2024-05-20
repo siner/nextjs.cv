@@ -49,6 +49,16 @@ export const RESUME_DATA = {
   ],
   work: [
     {
+      company: 'AltaMK',
+      link: 'https://altamarketing.com',
+      badges: ['Remote', 'React', 'TypeScript'],
+      title: 'CTO',
+      start: '2021',
+      end: '',
+      description:
+        'Liderazgo técnico en el desarrollo de proyectos web para los clientes de AltaMK',
+    },
+    {
       company: 'Estrim',
       link: 'https://estrim.com',
       badges: ['Manager'],
@@ -57,16 +67,6 @@ export const RESUME_DATA = {
       end: '2024',
       description:
         'Gestión de equipos de desarrollo y liderazgo técnico en el desarrollo de la aplicación web y móvil de Estrim',
-    },
-    {
-      company: 'AltaMK',
-      link: 'https://altamarketing.com',
-      badges: ['Remote', 'React', 'TypeScript'],
-      title: 'CTO',
-      start: '2020',
-      end: '',
-      description:
-        'Liderazgo técnico en el desarrollo de proyectos web para los clientes de AltaMK',
     },
     {
       company: 'Sozpic',
