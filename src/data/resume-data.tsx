@@ -7,9 +7,9 @@ export const RESUME_DATA = {
   locationLink: "https://www.google.com/maps/place/Murcia,+Spain",
   // Resumir en una frase
   about:
-    "Desarrollador Full Stack especializado en el desarrollo de aplicaciones web.",
+    "Desarrollador Frontend Senior con amplia experiencia en la creación de soluciones web innovadoras y escalables.",
   summary:
-    "Desarrollador Full Stack con más de 15 años de experiencia en el desarrollo de aplicaciones web. Actualmente trabajo principalmente con TypeScript, React y Node.js. Tengo experiencia en trabajar de forma remota con empresas de todo el mundo. Amplia experiencia en gestión de equipos y liderazgo técnico.",
+    "Desarrollador Frontend Senior con más de 15 años de experiencia creando aplicaciones web robustas y escalables. Especializado en TypeScript, React y Node.js, colaboro de forma remota con equipos internacionales, aportando liderazgo técnico y experiencia en gestión de equipos para impulsar proyectos innovadores.",
   avatarUrl: "https://avatars.githubusercontent.com/u/527572?v=4",
   personalWebsiteUrl: "https://www.franmoreno.com",
   contact: {
@@ -55,17 +55,18 @@ export const RESUME_DATA = {
       title: "Senior React Developer",
       start: "2024",
       end: "",
-      description: "Desarrollador React Senior en Minery Report",
+      description:
+        "Desarrollador React Senior en Minery Report. Lidero y participo en el desarrollo de proyectos Next.js tanto de forma individual como en equipo, abarcando desde la creación de nuevas aplicaciones hasta el mantenimiento de proyectos existentes, incluyendo tareas de backend cuando es necesario. Trabajo principalmente con React, TypeScript, Next.js, Tailwind CSS, Vercel y GIT, con un enfoque especial en el desarrollo frontend.",
     },
     {
       company: "AltaMK",
       link: "https://altamarketing.com",
-      badges: ["Remote", "React", "TypeScript"],
-      title: "Senior Technical Lead / Developer",
+      badges: ["Remote", "Manager"],
+      title: "Senior Technical Lead",
       start: "2021",
       end: "",
       description:
-        "Liderazgo técnico en el desarrollo de proyectos web para los clientes de AltaMK",
+        "Consultor tecnológico para AltaMK, responsable de la toma de decisiones técnicas, redacción de propuestas técnicas y de requisitos, así como del acompañamiento y apoyo en la gestión de equipos de desarrollo ya existentes. Participo activamente en la definición de soluciones tecnológicas para los proyectos web de los clientes, asegurando la alineación entre los objetivos de negocio y la implementación técnica.",
     },
     {
       company: "Estrim",
@@ -75,7 +76,7 @@ export const RESUME_DATA = {
       start: "2023",
       end: "2024",
       description:
-        "Gestión de equipos de desarrollo y liderazgo técnico en el desarrollo de la aplicación web y móvil de Estrim",
+        "Project Manager en Estrim, gestionando equipos de desarrollo frontend y backend, y actuando como enlace entre el equipo técnico y los stakeholders para asegurar la alineación del desarrollo de la plataforma web y móvil con los objetivos del negocio.",
     },
     {
       company: "Sozpic",
@@ -85,7 +86,7 @@ export const RESUME_DATA = {
       start: "2011",
       end: "2021",
       description:
-        "Socio fundador y CTO de Sozpic, una empresa de desarrollo web, aplicaciones móviles y marketing online. Tecnologías con las que trabajé: PHP, WordPress, Laravel, React, VUE, TypeScript, Astro, NextJS, NuxtJS",
+        "Socio fundador, CEO y CTO de Sozpic, una empresa de desarrollo web, aplicaciones móviles y marketing online. Además de liderar la estrategia tecnológica y participar activamente en el desarrollo (PHP, WordPress, Laravel, React, Vue, TypeScript, Astro, NextJS, NuxtJS), asumí responsabilidades transversales: elaboración de propuestas y presupuestos, presentaciones a clientes, gestión integral de la empresa y coordinación de equipos de desarrollo. Mi rol abarcó tanto la dirección técnica como la gestión empresarial y la relación con clientes.",
     },
     {
       company: "Canales Corporativos",
